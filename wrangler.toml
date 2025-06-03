@@ -1,0 +1,8 @@
+name = "worker-success-page"
+type = "javascript"
+
+account_id = "97745ed61bad1988fa5b6b2072ede438"
+workers_dev = true
+compatibility_date = "2025-06-01"
+
+
